@@ -1,0 +1,6 @@
+{
+  "name": "neightn.ai",
+  "description": "High-fidelity AI automation marketplace for enterprise-grade autonomous agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
